@@ -1,0 +1,56 @@
+
+
+header
+{
+    /* flexbox pour aligner mon entete en fonction de mes besoins */
+    display: flex;
+    justify-content: center;
+    background-color: #FF6A62
+}
+
+
+#head_button img
+{
+  display: flex;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+}
+
+/*#googleImage img
+{
+  width: 100%;
+  height: auto;
+}*/
+
+#valid img{
+
+  width:1000px;
+  height:550px;
+  border:1px
+  solid #000;
+}
+#rect_droit{
+
+  width:300px;
+  height:550px;
+  border:1px
+  solid #000;
+      background-color: #FF6A62
+}
+#rect_gauche {
+
+  width:300px;
+  height:550px;
+  border:1px
+  solid #000;
+      background-color: #FF6A62
+}
+
+#cadre {
+
+  display: flex;
+
+flex-direction: row ;
+
+}

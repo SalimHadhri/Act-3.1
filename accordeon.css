@@ -1,0 +1,198 @@
+#cadre_all
+{
+display: flex;
+flex-direction: row   ;
+width:1400px;
+height:1000px;
+}
+/************************************************/
+
+#desktop
+{
+  width:800px;
+  height:1000px;
+  display: flex;
+  flex-direction:column ;
+  margin: 5px 10px;
+
+}
+
+#desktop_name
+{
+  display: flex;
+  justify-content: center  ;
+  margin: 5px 0px;
+
+}
+
+#rectangle_rouge_desktop
+{
+  width: 750px ;
+  height:50px;
+  background:red;
+  margin: 5px 0px;
+
+}
+
+/************************************************/
+
+#mobile
+{
+  width:150px;
+  height:1000px;
+  display: flex;
+  flex-direction:column ;
+  margin: 5px 10px;
+
+}
+
+#mobile_name
+{
+  display: flex;
+  justify-content: center  ;
+  margin: 5px 0px;
+
+}
+
+#rectangle_rouge_mobile
+{
+  width: 150px ;
+  height:50px;
+  background:red;
+  margin: 5px 0px;
+
+}
+
+#rectangle_jaune_mobile
+{
+  width: 150px ;
+  height:100px;
+  background:yellow;
+  margin: 5px 0px;
+}
+
+#rectangle_orange_mobile
+{
+  width: 150px ;
+  height:100px;
+  background: #FF8324 ;
+  margin: 5px 0px;
+
+
+}
+
+#rectangle_vert_mobile
+{
+  width: 150px ;
+  height:100px;
+  background: green ;
+  margin: 5px 0px;
+
+}
+
+#rectangle_rose_mobile
+{
+  width: 150px ;
+  height:100px;
+  background: #FF694D ;
+  margin: 5px 0px;
+
+}
+
+#rectangle_bleue_mobile
+{
+  width: 150px ;
+  height:100px;
+  background: blue ;
+  margin: 5px 0px;
+
+}
+
+
+/*******************************************************************/
+#tablet
+{
+  width:400px;
+  height:1000px;
+  display: flex;
+  flex-direction:column ;
+  margin: 5px 10px;
+
+}
+
+#tablet_name
+{
+  display: flex;
+  justify-content: center  ;
+  margin: 5px 0px;
+
+}
+
+#rectangle_rouge_tablet
+{
+  width: 400px ;
+  height:50px;
+  background:red;
+  margin: 5px 0px;
+
+}
+
+#premiere_division_tablet
+{
+
+  display: flex;
+  flex-direction:row ;
+  width: 400px ;
+  height:90px;
+
+  margin: 5px 0px;
+
+
+
+
+}
+
+#div_1_tablet_orange
+{
+  width: 300px ;
+  height:90px;
+  background:#FF8324;
+  margin: 0px 10px;
+
+
+
+}
+#div_1_tablet_vert
+{
+  width: 90px ;
+  height:90px;
+  background:green;
+
+}
+
+#rectangle_jaune_tablet
+{
+  width: 400px ;
+  height:90px;
+  background:yellow;
+  margin: 5px 0px;
+
+}
+
+#rectangle_rause_tablet
+{
+  width: 400px ;
+  height:180px;
+  background:#A7726B;
+  margin: 5px 0px;
+
+}
+
+#rectangle_bleue_tablet
+{
+  width: 400px ;
+  height:80px;
+  background:blue;
+  margin: 5px 0px;
+
+}
